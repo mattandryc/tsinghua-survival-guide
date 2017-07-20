@@ -4,7 +4,7 @@ Tsinghua Survival Guide
 
 About
 -----
-Sometimes Tsinghua’s documentation in English is hard to find @_@. Gonna try to use this site to collect some useful stuff I’ve found.
+Sometimes, Tsinghua’s English documentation is hard to find @_@. This site contains some useful stuff I’ve found.
 
 
 Articles
@@ -14,4 +14,6 @@ Articles
    :maxdepth: 2
 
    free-software
-   license
+   free-storage
+   reserve-desk
+   reserve-studyroom

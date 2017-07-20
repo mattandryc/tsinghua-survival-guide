@@ -4,7 +4,7 @@ Free software
 There's a ton of free software downloads (Word, Excel, Powerpoint, Windows 10 activation keys, and more) buried in the nested menus on info.tsinghua_.
 
 
-.. note:: Some of the software (e.g. Visual Studio Pro, Excel, Powerpoint) is in Chinese. Generally, they have the same functionality as the English versions, but may be a bit of a hassle to use for those who don't speak Chinese. I'll update this article, if I find a way to swap languages for the MS Office apps.
+.. note:: Some of the software (e.g. Visual Studio Pro, Excel, Powerpoint) is in Chinese. Generally, they have the same functionality as the English versions, but may be a bit of a hassle to use for those who don't speak Chinese. I'll update this article if I find a way to swap languages for the MS Office apps.
 
 1. Sign in to info.tsinghua_ and then search the landing page (Cmd + F) for ``软件资源``.
 
