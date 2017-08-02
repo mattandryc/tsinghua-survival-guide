@@ -1,7 +1,7 @@
 Free storage & file sharing
 =================================
 
-Google Drive or Dropbox aren't always easy to get to. When you're connected to Tsinghua's network you can upload and share files using info.tsinghua_. If you're off campus you can access them using the school's SSL VPN (you'll get redirected there automatically if you try to access info.tsinghua_ while off campus).
+Google Drive or Dropbox aren't always easy to get to. When you're connected to Tsinghua's network you can upload and share files using info.tsinghua_. If you're off campus, you can access them using the school's SSL VPN (you'll get redirected there automatically if you try to access info.tsinghua_ while off campus).
 
 Set up
 ------
@@ -24,7 +24,7 @@ Usage
 
 2. Click the ``上传文件`` button (middle button in the top row)
 
-3. Click ``Choose file`` and navigate to your target file
+3. From the popup, click ``Choose file`` and navigate to your target file
 
 4. Click the ``上载`` button on the right
 
