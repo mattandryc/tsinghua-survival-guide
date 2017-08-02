@@ -11,8 +11,9 @@ Articles
 --------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
+   add-money-to-id
    free-software
    free-storage
    reserve-desk
