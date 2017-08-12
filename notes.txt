@@ -1,0 +1,5 @@
+//images
+width: 720px
+height: 300px
+border: 6ab0de
+border-width: 2px

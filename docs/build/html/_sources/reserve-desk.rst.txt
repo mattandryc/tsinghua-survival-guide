@@ -20,7 +20,7 @@ Reserving a desk
 
 //TODO add image
 
-.. warning:: Unless you tap ``暂时离开`` on a kiosk before leaving, your reservation will be canceled when you swipe your student ID to reenter the library (see Taking a Break section below for more info).
+.. warning:: Unless you tap ``暂时离开`` on a kiosk before leaving, your reservation will be canceled when you swipe your student ID to reenter the library (see the Taking a Break section below for more info).
 
 Taking a break
 ---------------
@@ -39,7 +39,7 @@ Important: Checking out
 When you're done using the desk be sure to...
 
 1. Touch your student ID to the yellow outline on a kiosk.
-2. Tap the ``永远离开``` button on the display.
+2. Tap the ``永远离开`` button on the display.
 
 .. warning:: If you don't checkout upon leaving, you'll receive a warning. If you receive three warnings, your desk reservation privileges will be suspended for xx //TODO get details about penalty hours.
 
