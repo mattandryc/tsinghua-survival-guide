@@ -16,8 +16,10 @@ Articles
    :maxdepth: 1
 
    add-money-to-id
+   reset-password
    free-software
    free-storage
+   get-to-info-vpn
    reserve-desk
    reserve-studyroom
 
