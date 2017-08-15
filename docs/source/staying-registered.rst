@@ -5,7 +5,7 @@ Your status in the Foreigner Registration System should reflect where you're sta
 
 .. image:: temp-dengji-biao.png
 
-If you're living on campus, register at the Foreign Student Affairs Office (`Zijing Dormitory Building 19, First floor`_). Living off campus? Register at your local police station ``派出所``. If you're unsure about where your local police station ``派出所`` is, ask your landlord. She or he will probably need to accompanies you to the police station, as their personal identification information ``身份证`` and proof of ownership of the apartment is required.
+If you're living on campus, register at the Foreign Student Affairs Office (`Zijing Dormitory Building 19, First floor`_). Living off campus? Register at your local police station ``派出所``. If you're unsure about where your local police station ``派出所`` is, ask your landlord. She or he will probably need to accompany you to the police station, as their personal identification information ``身份证`` and proof of ownership of the apartment is required.
 
 .. note:: There are zero fees for registration. Just **bring the passport that contains your residence permit**, present it at the counter so they can enter your info into the system, and leave with a Residence Registration Form ``住宿登记表``, **no money involved**.
 
