@@ -17,7 +17,9 @@ Articles
 
    add-money-to-id
    residence-permit
+   staying-registered
    reset-password
+   dyi-residence-permit
    free-software
    free-storage
    get-to-info-vpn
