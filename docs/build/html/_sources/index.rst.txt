@@ -16,6 +16,7 @@ Articles
    :maxdepth: 1
 
    add-money-to-id
+   residence-permit
    reset-password
    free-software
    free-storage
