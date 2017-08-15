@@ -15,15 +15,16 @@ Articles
 .. toctree::
    :maxdepth: 1
 
+   get-to-info-vpn
    add-money-to-id
-   residence-permit
    staying-registered
    reset-password
-   dyi-residence-permit
+   residence-permit
+   diy-residence-permit
    free-software
    free-storage
-   get-to-info-vpn
    reserve-desk
+   recieve-a-package
    reserve-studyroom
 
 .. |sad| unicode:: U+2639 .. SAD FACE

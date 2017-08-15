@@ -1,5 +1,5 @@
-Do it yourself: Residence Permit
-=================================
+Handling a Residence Permit application on your own
+====================================================
 
 
 .. _International Students Office: iso@tsinghua.edu.cn

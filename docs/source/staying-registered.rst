@@ -1,18 +1,18 @@
 Always stay registered
 =======================
 
-Your status in the Foreigner Registration System should reflect where you're located in China at any given point in time. A Temporary Residence Registration Form ``临时住宿登记表`` is like a receipt to show that you've registered with the local authorities.
+Your status in the Foreigner Registration System should reflect where you're staying in China at any given point in time. A Temporary Residence Registration Form ``临时住宿登记表`` is like a receipt to show that you've registered with the local authorities.
 
 .. image:: temp-dengji-biao.png
 
-If you're living on campus, register at the Foreign Student Affairs Office (`Zijing Dormitory Building 19, First floor`_). If you're living off campus, register at your local police station ``派出所``. If you're unsure about where your local police station ``派出所`` is, ask your landlord. It's best if she or he accompany you to the police station, as their personal identification information ``身份证`` (and proof of ownership of the apartment) is required.
+If you're living on campus, register at the Foreign Student Affairs Office (`Zijing Dormitory Building 19, First floor`_). Living off campus? Register at your local police station ``派出所``. If you're unsure about where your local police station ``派出所`` is, ask your landlord. She or he will probably need to accompanies you to the police station, as their personal identification information ``身份证`` and proof of ownership of the apartment is required.
 
 .. note:: There are zero fees for registration. Just **bring the passport that contains your residence permit**, present it at the counter so they can enter your info into the system, and leave with a Residence Registration Form ``住宿登记表``, **no money involved**.
 
-If you stay at a hotel anywhere in China, the front desk will enter your passport information to update your location status in the system (you don't get receipt for this). If you leave the country, customs officers will update your status to show you're currently outside the country.
+If you stay at a hotel anywhere in China, the front desk will enter your passport information to update your location status in the system (you don't get receipt for this). Similarly, when you leave the country, customs officers will update your status to show you're currently outside the country.
 
 When you return to your dormitory or apartment in Beijing **you have to reregister** at the Foreign Student Affairs Office or at your local police station.
 
-.. note:: Sometimes the police or admin will claim you don't need to reregister after staying at a hotel elsewhere in China or when returning from abroad. However, **your status in the system does in fact change**. This can create problems, if you're trying to apply for a Residence Permit or extend your visa. Insist that they double check your status and set it to your current address.
+.. note:: Sometimes the police or admin will claim you don't need to reregister after staying at a hotel elsewhere in China or when returning from abroad. However, **your status in the system does in fact change**. This can create problems if you're trying to apply for a Residence Permit or extend your visa. Insist that they double check your status and set it to your current address.
 
 .. _Zijing Dormitory Building 19, First floor: http://j.map.baidu.com/-m6iC

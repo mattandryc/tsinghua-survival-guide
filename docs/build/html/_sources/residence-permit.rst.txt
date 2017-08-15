@@ -1,4 +1,4 @@
-All about X1 Residence Permits
+Getting an X1 Residence Permit
 ===============================
 
 If you run into issues that aren't covered here, contact the `International Students Office`_ for help.
