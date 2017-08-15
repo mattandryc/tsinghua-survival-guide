@@ -1,5 +1,5 @@
-All about Residence Permits
-============================
+All about X1 Residence Permits
+===============================
 
 If you run into issues that aren't covered here, contact the `International Students Office`_ for help.
 
@@ -41,7 +41,7 @@ If you have documentation for a physical examination from your home country, bri
 
 Bring the items below to the Residence Permit agent at the International Students Office (`Zijing Dormitory Building 22, First floor, Room 100`_) Monday to Friday, 1:00p to 4:00p.
 
-**You must bring these items to the agent**:
+**You must give these items to the agent**:
 
 1. Your passport (he will provide a receipt)
 2. One copy of your Tsinghua Admission Notice ``录取通知书``
@@ -55,14 +55,14 @@ The application process usually takes five business days. The agent will provide
 
 .. note:: The RMB 500 fee includes a RMB 100 service charge for bringing your passport to and from the `Visa Center`_ ``北京公安局出入境管理处`` off campus. This service allows you to pick up your passport and Residence Permit directly from `Zijing Dormitory Building 22, First floor, Room 100`_ when they're ready.
 
-You can save RMB 100 by putting in a bit more legwork. If you're interested, check out this article_. If not, the process above works just fine.
+You can save RMB 100 by putting in a bit more legwork. If you're interested, check out this article (coming soon). If not, the process above works just fine.
 
 
 4. Register with the local authorities
 ---------------------------------------
 Almost there. Once you get your passport and Residence Permit, **if you live on campus**, head over to the Foreign Student Affairs Office (`Zijing Dormitory Building 19, First floor`_) **with your passport** and register at the main desk. They'll give you a Residence Registration Form ``住宿登记表`` updated with your new Residence Permit info.
 
-If you **live off campus**, go to your local police station ``派出所`` that is responsible for managing corresponding residential area **with your passport**. If you're unsure about where your local police station is, ask your landlord to provide an address.
+If you **live off campus**, go to your local police station ``派出所`` that is responsible for managing corresponding residential area **with your passport**. If you're unsure about where your local police station ``派出所`` is, ask your landlord. All you need is your passport and your current living address.
 
 .. note:: This final step of the process is completely free. There are no fees for registering at your local police station or at the Foreign Student Affairs Office. Just bring the passport that contains your residence permit, present it at the counter so they can enter your info into the system, and leave with a Residence Registration Form ``住宿登记表``, **no money involved**.
 
@@ -71,6 +71,5 @@ If you **live off campus**, go to your local police station ``派出所`` that i
 .. _Zijing Dormitory Building 22, First floor, Room 100: http://j.map.baidu.com/Qa1PC
 .. _Travel Health Care Center: http://j.map.baidu.com/b-jAk
 .. _Visa Center: http://j.map.baidu.com/eYy3k
-.. _article: example.com
-.. _what's this?: example.com
+.. _what's this?: staying-registered.rst
 .. _Zijing Dormitory Building 19, First floor: http://j.map.baidu.com/-m6iC
