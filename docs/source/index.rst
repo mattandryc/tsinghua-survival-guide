@@ -4,9 +4,9 @@ Tsinghua Survival Guide
 
 About
 -----
-Sometimes Tsinghua’s English documentation is hard to find |sad|. This site contains some useful stuff I’ve found. While it's helpful if you know Chinese, these articles don't require any prior knowledge of the language and are designed to be used 'as-is'.
+Sometimes Tsinghua’s English documentation is hard to find |sad|. This site contains some useful stuff I’ve found (i.e. it's unofficial). While it's helpful if you know Chinese, these articles don't require any prior knowledge of the language and are designed to be used 'as-is'.
 
-If you'd like to request a topic for an article, email dusc16@mails.edu.cn.
+If you'd like to request a topic for an article or spot a mistake, email dusc16@mails.edu.cn.
 
 
 Articles
