@@ -26,5 +26,6 @@ Articles
    reserve-desk
    recieve-a-package
    reserve-studyroom
+   china-apps
 
 .. |sad| unicode:: U+2639 .. SAD FACE
