@@ -20,7 +20,6 @@ Articles
    staying-registered
    reset-password
    residence-permit
-   diy-residence-permit
    free-software
    free-storage
    reserve-desk

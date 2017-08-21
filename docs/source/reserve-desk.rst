@@ -1,5 +1,7 @@
-Find seat at the library
-=========================
+Finding seats at the library
+==============================
+
+.. note:: `Ren Wen Library`_ ``人文社科图书馆`` is closed for renovations until the beginning of October, 2017.
 
 Trying to find a place to study in the library can be tough around midterms and finals. In order to make sure that all desks are actually being used (i.e. people aren't just parking their stuff there all day), `Ren Wen Library`_ ``人文社科图书馆`` uses a check-in system, which, unfortunately, is only in Chinese. Luckily, it's not too hard to use if you know the basic logic.
 

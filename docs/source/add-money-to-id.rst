@@ -32,9 +32,11 @@ If your passport number is less than six digits, add zeros to the front to pad i
 -------------------------------------
 Funds are transferred instantly from your Bank of China account to your Student ID.
 
-6. Tap confirm and then...
------------------------------
+//todo get picture
 
+6. Tap ``确认`` and then...
+-----------------------------
+// todo get picture
 
 7. Don't forget to sign out
 ----------------------------

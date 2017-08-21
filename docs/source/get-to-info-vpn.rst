@@ -7,6 +7,7 @@ If you're off campus and need to get to info.tsinghua_ (e.g. to view your grades
 -------------------------------
 .. image:: tunnel-first-page.png
 
+
 2. Sign in
 ------------
 Enter your Student ID into the top text entry field followed, by your password in the field below it.

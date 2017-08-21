@@ -55,8 +55,7 @@ The application process usually takes five business days. The agent will provide
 
 .. note:: The RMB 500 fee includes a RMB 100 service charge for bringing your passport to and from the `Visa Center`_ ``北京公安局出入境管理处`` off campus. This service allows you to pick up your passport and Residence Permit directly from `Zijing Dormitory Building 22, First floor, Room 100`_ when they're ready.
 
-You can save RMB 100 by putting in a bit more legwork. If you're interested, check out this article (coming soon). If not, the process above works just fine.
-
+You can save RMB 100 by putting in a bit more legwork. If you're interested, just tell the agent you want to do it yourself and he'll print a ``居留许可申请表`` for you (takes three to four business days). Bring the ``居留许可申请表`` along with all the documents listed above to the ``北京市公安局出入境管理总队`` here. If everything goes smoothly, it takes approximately 10 business days to get your passport back along with your residence permit.
 
 4. Register with the local authorities
 ---------------------------------------
