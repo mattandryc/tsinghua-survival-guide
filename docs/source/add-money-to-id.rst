@@ -28,8 +28,8 @@ If your passport number is less than six digits, add zeros to the front to pad i
 .. image:: add-cash.png
 
 
-5. Enter the amount you want to add to your card
--------------------------------------------------
+5. Enter amount to transfer to card
+-------------------------------------
 Funds are transferred instantly from your Bank of China account to your Student ID.
 
 6. Tap confirm and then...
