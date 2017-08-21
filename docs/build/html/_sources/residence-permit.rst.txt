@@ -71,5 +71,5 @@ If you **live off campus**, go to your local police station ``派出所`` that i
 .. _Zijing Dormitory Building 22, First floor, Room 100: http://j.map.baidu.com/Qa1PC
 .. _Travel Health Care Center: http://j.map.baidu.com/b-jAk
 .. _Visa Center: http://j.map.baidu.com/eYy3k
-.. _what's this?: staying-registered.rst
+.. _what's this?: http://tsinghua-survival-guide.readthedocs.io/en/latest/staying-registered.html
 .. _Zijing Dormitory Building 19, First floor: http://j.map.baidu.com/-m6iC

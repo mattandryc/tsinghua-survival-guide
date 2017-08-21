@@ -6,6 +6,8 @@ If you don't have **WeChat** yet, go ahead and download it now. The list below i
 +----------+-------------+--------------------+-----------------------------------------------------+
 | English  | Chinese     | Foreign Equivalent | Description                                         |
 +==========+=============+====================+=====================================================+
+| Gaode    | 高德地图    | Google Maps        | Maps and directions on your mobile                  |
++----------+-------------+--------------------+-----------------------------------------------------+
 | Didi     | 滴滴出行    | Uber               | Call cabs, black cars, personal drivers, etc.       |
 +----------+-------------+--------------------+-----------------------------------------------------+
 | Taobao   | 淘宝        | ebay               | Buy stuff from small individual vendors             |
