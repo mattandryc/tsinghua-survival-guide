@@ -28,18 +28,23 @@ If your passport number is less than six digits, add zeros to the front to pad i
 .. image:: add-cash.png
 
 
-5. Enter amount to transfer to card
--------------------------------------
+5. Enter amount to transfer to card and tap ``确认``
+-------------------------------------------------------
 Funds are transferred instantly from your Bank of China account to your Student ID.
 
-//todo get picture
+.. image:: id-card-system-amount-input.png
 
-6. Tap ``确认`` and then...
------------------------------
-// todo get picture
 
-7. Don't forget to sign out
-----------------------------
-Tap the sign out ``TODO`` button in the lower left corner.
+6. Tap ``确认`` in the popup and then...
+-------------------------------------------
+
+.. image:: confirm-alert.png
+
+
+7. Don't forget to sign out!
+------------------------------
+
+.. image:: id-card-system-exit.png
+
 
 .. _branch: http://j.map.baidu.com/W9HxC
