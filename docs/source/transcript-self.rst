@@ -23,6 +23,7 @@ To print out a notarized version of your transcript, follow the steps below.
 4. Select number of copies and the target language
 -------------------------------------------------------
 Use the text area to explain why you need to print your transcript.
+
 .. image:: transcript-lang-num.png
 
 
