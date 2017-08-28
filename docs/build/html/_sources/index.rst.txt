@@ -22,6 +22,7 @@ Articles
    residence-permit
    free-software
    free-storage
+   transcript-self
    reserve-desk
    recieve-a-package
    reserve-studyroom
